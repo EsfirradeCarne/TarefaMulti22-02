@@ -11,9 +11,9 @@ public class Tâniatarefa {
     
         public static void main(String args[]){
     int m1[][]={{3,1,3},{6,5,5}};
-    int m2[][]={{100,50,50},{50,100,50}};
+    int m2[][]={{100,50},{50,100},{50,50}};
     int m[][]=new int[2][2]; 
-    
+    {100,50,50}
     for(int i=0;i<2;i++){
     for(int j=0;j<2;j++){
         m[i][j]=0;
